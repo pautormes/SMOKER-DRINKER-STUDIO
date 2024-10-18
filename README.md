@@ -29,7 +29,7 @@ Los datos utilizados para este estudio fueron descargados de Kaggle en formato E
 - **Excel**: Limpieza inicial y estructuración de datos.
 - **Python y R**: Limpieza avanzada de datos y creación de modelos predictivos.
 - **Power BI**: Análisis exploratorio y visualización de los datos.
-- **Kaggle**: Fuente de los datos.
+- **Kaggle**: Fuente de los datos. (https://www.kaggle.com/datasets/sooyoungher/smoking-drinking-dataset?select=smoking_driking_dataset_Ver01.csv)
 
 ## Presentación final
 La presentación final con todos los resultados y conclusiones está disponible en formato PDF.
